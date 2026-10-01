@@ -1,0 +1,8 @@
+title: "Trace Cut Elements"
+tooltip: >-
+  Fills everything cut by the active section, elevation or detail view with
+  one filled region, merging touching elements into a single outline (like
+  Illustrator's Unite). Re-running replaces the previous fill in that view.
+  Shift+Click to choose the filled region type.
+author: Studio Ecesis
+date: 2026-10-01
